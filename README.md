@@ -1,4 +1,4 @@
-# 🛠️ SiN Episodes: Emergence — Binaries Bug Fix 
+# 🛠️ SiN Episodes: Emergence — ANTI-PIRATE FIX
 
 <p align="center">
   <img src="https://img.shields.io/github/license/DizaDesire/sin-episodes-mega-fix?style=for-the-badge&color=red" alt="License">
