@@ -28,3 +28,24 @@ The installation is straightforward. Follow these steps:
 3. Copy the contents of the `bin` folder from this fix and **paste them directly into the `bin` folder** inside your game directory.
 4. Overwrite/Replace the existing files when prompted by Windows.
 5. Launch the game and enjoy!
+
+---
+
+## ⚠️ Requirements & Compatibility
+* **Game Version:** Fully compatible with the official Steam / Retail version of SiN Episodes: Emergence.
+* **OS:** Windows 7 / 8 / 10 / 11 (x64).
+* Make sure to back up your original `bin` folder before applying this patch, just in case.
+
+---
+
+## 🛠️ Built With & Credits
+* **Engine:** Source Engine SDK
+* **Developer:** [DizaDesire](https://github.com/DizaDesire)
+
+## 📄 License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+<p align="center">
+  Developed with 🧠 by DizaDesire • If this fix helped you, feel free to leave a ⭐!
+</p>
