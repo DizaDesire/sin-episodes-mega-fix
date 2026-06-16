@@ -1,20 +1,20 @@
 # 🛠️ SiN Episodes: Emergence — Binaries Bug Fix 
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/DizaDesire/sin-episodes-emergence-bin-fix?style=for-the-badge&color=red" alt="License">
-  <img src="https://img.shields.io/github/stars/DizaDesire/sin-episodes-emergence-bin-fix?style=for-the-badge&color=orange" alt="Stars">
-  <img src="https://img.shields.io/github/issues/DizaDesire/sin-episodes-emergence-bin-fix?style=for-the-badge&color=yellow" alt="Issues">
+  <img src="https://img.shields.io/github/license/DizaDesire/sin-episodes-mega-fix?style=for-the-badge&color=red" alt="License">
+  <img src="https://img.shields.io/github/stars/DizaDesire/sin-episodes-mega-fix?style=for-the-badge&color=orange" alt="Stars">
+  <img src="https://img.shields.io/github/issues/DizaDesire/sin-episodes-mega-fix?style=for-the-badge&color=yellow" alt="Issues">
   <img src="https://img.shields.io/badge/Game-SiN%20Episodes-blueviolet?style=for-the-badge" alt="Game">
 </p>
 
-This repository contains a critical binary fix for **SiN Episodes: Emergence** (Source Engine). It resolves engine stability issues, modern operating system crashes, and memory bugs that prevent the game from running properly on modern hardware.
+This repository contains an important patched version of the game **SiN Episodes: Emergence** (powered by the Source Engine). It resolves issues with AI freezes, disables the anti-piracy system, and fixes hidden AI-related bugs that interfere with gameplay.
 
 ---
 
-## 🚀 Features & Fixes
-* 🎮 **Crash Prevention:** Fixes sudden desktop crashes during loading screens and intensive gunfights.
-* ⚙️ **Engine Stability:** Patches memory allocation bugs inherited from older Source Engine branches.
-* 🖥️ **Modern OS Support:** Smooth performance on Windows 10 and Windows 11.
+## 🚀 New Features and Fixes
+* 🎮 **Full Version:** All anti-piracy protections have been disabled
+* ⚙️ **Bug Fixes:** Memory allocation bugs inherited from older branches of the Source Engine have been fixed.
+* 🖥️ **Support for modern operating systems:** smooth performance on Windows 10 and Windows 11.
 
 ---
 
