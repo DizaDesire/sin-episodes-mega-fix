@@ -1,7 +1,7 @@
 # 🛠️ SiN Episodes: Emergence — ANTI-PIRATE FIX
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/DizaDesire/sin-episodes-mega-fix?style=for-the-badge&color=red" alt="License">
+  <img src="https://img.shields.io/badge/license-MIT-red?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/github/stars/DizaDesire/sin-episodes-mega-fix?style=for-the-badge&color=orange" alt="Stars">
   <img src="https://img.shields.io/github/issues/DizaDesire/sin-episodes-mega-fix?style=for-the-badge&color=yellow" alt="Issues">
   <img src="https://img.shields.io/badge/Game-SiN%20Episodes-blueviolet?style=for-the-badge" alt="Game">
