@@ -1,7 +1,7 @@
 # 🛠️ SiN Episodes: Emergence — ANTI-PIRATE FIX
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DizaDesire/sin-episodes-mega-fix/refs/heads/main/3399.jpeg" alt="SiN Episodes Emergence" width="35%" style="border-radius: 14px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);" />
+<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/DizaDesire/sin-episodes-mega-fix/refs/heads/main/3399.png" alt="SiN Episodes Emergence" width="100%" />
 </p>
 
 <p align="center">
